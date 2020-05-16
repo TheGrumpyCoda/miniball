@@ -9,8 +9,8 @@
 #include <fstream>
 #include <map>
 #include <string>
-#include <sys/resource.h>
-#include <sys/time.h>
+
+struct timeval;
 
 namespace SEB_NAMESPACE {
   
